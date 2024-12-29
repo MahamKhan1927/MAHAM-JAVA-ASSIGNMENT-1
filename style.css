@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(252, 141, 100);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.id{
+    font-size: 30px;
+    text-transform: uppercase; text-decoration: underline;
+}
+.ass{
+    font-size: 30px;
+    text-transform: uppercase; text-decoration: underline;
+}
